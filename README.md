@@ -1,2 +1,9 @@
 # Metro-Dominion
-Mod for the game Age of History 2 based on Metro 2033
+To run the mod, open the file Metro Dominion.exe
+
+
+For better immersion in the game, it is recommended to play at a game speed of 50%!
+
+
+Telegram channel - https://t.me/MetroDominion
+Admin - https://t.me/Freelayde
